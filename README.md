@@ -33,10 +33,14 @@ My work sits at the intersection of **real-world system building and research-or
 ---
 
 ## 📌 Selected Projects
-- **E-VAT Sales & Inventory System** – Go, PostgreSQL, SQLite  
-  Focus: transactional integrity, compliance-driven data models, offline sync.
-- **FinTrack (Internship Project)**  
-  Backend features for financial data tracking and analysis.
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **E-VAT Sales System** | **Offline-first** retail engine. Focus: transactional integrity, compliance models & sync. | `Go` `SQLite` `gRPC` |
+| **Pulse Social API** | Scalable REST backend for social graphs. Focus: efficient database schema design & API performance. | `Python` `FastAPI` `PostgreSQL` |
+| **AsyncBroker** | Custom **distributed message queue**. Built to master concurrency, locking, and thread safety without pre-built brokers. | `Java` `Threads` `Sockets` |
+| **Airbnb Clustering** | Data engineering pipeline using **unsupervised learning** to identify rental market segments. | `Python` `Scikit-Learn` `Pandas` |
+
 
 ---
 
