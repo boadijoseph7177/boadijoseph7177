@@ -50,6 +50,6 @@ My work sits at the intersection of **real-world system building and research-or
 ## 📫 Contact
 - GitHub: https://github.com/boadijoseph7177  
 - Email: boadijoseph7177@gmail.com  
-- LinkedIn: *(add link)*
+- LinkedIn: www.linkedin.com/in/josephboadi7
 
 ⭐️ Building systems. Asking why they work—or don’t.
