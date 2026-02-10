@@ -1,61 +1,55 @@
 # Hi, I’m Joseph 👋🏾
 
-I’m a Computer Science student and backend-focused software engineer interested in **distributed systems, fintech infrastructure, and scalable backend design**. I enjoy building systems that solve real problems—especially in emerging markets.
+I’m a Computer Science student and backend-focused engineer interested in **distributed systems, data-intensive applications, and ML-backed infrastructure**.
 
-Currently exploring how **software, data, and systems engineering** can improve financial operations and compliance at scale.
+My work sits at the intersection of **real-world system building and research-oriented thinking**—understanding performance tradeoffs, correctness, and reliability in production-like environments.
+
+---
+
+## 🔬 Current Focus
+- Designing backend systems that model **real operational constraints** (latency, consistency, offline operation, compliance).
+- Exploring how **data systems and distributed services** can be made more robust, observable, and scalable.
+- Preparing for both **industry backend roles** and **research-focused graduate study** in systems and ML systems.
 
 ---
 
 ## 🔧 What I’m working on
 - **E-VAT–Compliant Sales & Inventory System (Ghana)**  
-  Building a backend-first system in Go to support VAT-compliant sales reporting, offline-first sync, and audit-ready transaction tracking.
-- **Backend & Systems Projects**  
-  Designing APIs, data models, and services with a focus on correctness, performance, and maintainability.
-- **Interview & Systems Prep**  
-  Staying sharp with DSA, backend architecture, and real-world system design.
+  A backend-first system exploring transaction integrity, auditability, and offline-first synchronization under regulatory constraints.
+- **Systems & Backend Experiments**  
+  Prototypes focused on API design, concurrency, and data modeling decisions.
+- **Foundational Prep**  
+  Distributed systems, algorithms, and performance-oriented backend design.
 
 ---
 
-## 🛠 Tech Stack
-**Languages**
-- Go, Python, JavaScript, C++, SQL
-
-**Backend & Systems**
-- REST APIs, FastAPI, Go `net/http`
-- PostgreSQL, SQLite
-- Authentication (JWT), data modeling
-- Linux, Git, Docker (learning)
-
-**Concepts**
-- Distributed systems basics
-- Concurrency & performance
-- Backend architecture & data consistency
-- VAT & financial transaction logic
+## 🛠 Technical Interests
+- Distributed & data-intensive systems
+- Backend architecture & correctness
+- Concurrency and performance
+- ML systems & applied data engineering
+- Systems design under real-world constraints
 
 ---
 
-## 📌 Featured Projects
+## 📌 Selected Projects
 - **E-VAT Sales & Inventory System** – Go, PostgreSQL, SQLite  
-  Backend system for transaction tracking, VAT computation, and compliance reporting.
+  Focus: transactional integrity, compliance-driven data models, offline sync.
 - **FinTrack (Internship Project)**  
-  Backend features for budgeting, expenses, and financial insights.
-
-*(More projects pinned below 👇)*
+  Backend features for financial data tracking and analysis.
 
 ---
 
 ## 🌍 Background
 - CS student at **Bluefield State University**
-- Backend-focused with interests in **fintech, data systems, and ML-backed services**
-- Entrepreneurial mindset with hands-on experience building Ghana-focused systems
+- Strong interest in **systems research grounded in real applications**
+- Entrepreneurial projects focused on infrastructure challenges in emerging markets
 
 ---
 
-## 📫 Let’s connect
-- **GitHub:** https://github.com/boadijoseph7177  
-- **Email:** boadijoseph7177@gmail.com  
-- **LinkedIn:** *(add your LinkedIn link here)*
+## 📫 Contact
+- GitHub: https://github.com/boadijoseph7177  
+- Email: boadijoseph7177@gmail.com  
+- LinkedIn: *(add link)*
 
----
-
-⭐️ Always learning. Always building.
+⭐️ Building systems. Asking why they work—or don’t.
